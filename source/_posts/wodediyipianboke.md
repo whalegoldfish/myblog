@@ -2,6 +2,8 @@
 title: wodediyipianboke
 date: 2020-05-05 15:23:59
 tags:
+excerpt: hujy
+photos: https://picsum.photos/600/400/?random
 ---
 Inline styles：
 
